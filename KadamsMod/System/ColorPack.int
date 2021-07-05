@@ -1,0 +1,9 @@
+[Public]
+Object=(Name=ColorPack.JCClothes,Class=Class,MetaClass=Engine.Mutator,Description="JCClothes, Colorpack clothes for info type mutate colorpack.help/Version")
+Object=(Name=ColorPack.BumMaleClothes,Class=Class,MetaClass=Engine.Mutator,Description="BumMaleClothes, Colorpack clothes for info type mutate colorpack.help/Version")
+Object=(Name=ColorPack.DoctorClothes,Class=Class,MetaClass=Engine.Mutator,Description="DoctorClothes, Colorpack clothes for info type mutate colorpack.help/Version")
+Object=(Name=ColorPack.FordClothes,Class=Class,MetaClass=Engine.Mutator,Description="FordClothes, Colorpack clothes for info type mutate colorpack.help/Version")
+Preferences=(Caption="JCClothes",Parent="Mutators",Class=ColorPack.JCClothes,Immediate=True)
+Preferences=(Caption="BumMaleClothes",Parent="Mutators",Class=ColorPack.BumMaleClothes,Immediate=True)
+Preferences=(Caption="DoctorClothes",Parent="Mutators",Class=ColorPack.DoctorClothes,Immediate=True)
+Preferences=(Caption="FordClothes",Parent="Mutators",Class=ColorPack.FordClothes,Immediate=True)
